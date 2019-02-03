@@ -1,0 +1,56 @@
+body {
+    background-color: green;
+}
+
+p {
+    padding: 20px;
+}
+
+.row {
+    margin-bottom: 20px;
+    border: 2px solid green;
+}
+
+#brand {
+    font-size: 40px;
+}
+
+#main-content {
+    border-radius: 0;
+    background: darkgray;
+}
+
+#content {
+    margin-top: 50px;
+    background: darkgray
+}
+
+h3 {
+    margin-top: 20px;
+    font-size: 35px;
+}
+
+#chicken {
+    background-color: aqua;
+    font-size: 20px;
+}
+
+#beef {
+    background-color: palevioletred;
+    font-size: 20px;
+}
+
+#shushi {
+    background-color: gold;
+    font-size: 20px;
+}
+
+h5 {
+    margin-bottom: 10px;
+    color: white;
+}
+
+.links {
+    color: white;
+    font-size: 20px;
+}
